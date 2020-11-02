@@ -1,6 +1,6 @@
 # 翻墙软件 - 翻墙VPN工具TOP推荐
 ### PC/Mac/iPhone/Android使用的翻墙软件，国外科学上网工具
-### ❗❗❗ 这是很多朋友花钱、买套餐，使用后的真实感受排名 ❗❗❗
+### ❗❗❗ 这是很多朋友花钱、买套餐，使用后最好用最稳定的几个VPN ❗❗❗
 
 # 1.Nord翻墙   [Nord官网地址](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&url_id=613&aff_sub=best&aff_click_id=fanqiang)
 ✅推荐，曾被评为No.1，超强加密，服务器节点5000+。
@@ -20,17 +20,8 @@
 
 优势：无流量限制，ECC超强加密，7天无理由退款，隐私保护极好，注册甚至不需要邮箱！
 
-# 3.Express翻墙 [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=best&data1=fanqiang)
-✅多年评为全球服务第一，除了贵没别的毛病，30天内无理由退款
 
-优势：不限网速，160可选节点，3W个ip，24小时客服支持
-
-# 3.Pure翻墙 [Pure官网地址](https://billing.purevpn.com/aff.php?aff=42611&data1=best&data2=fanqiang)
-香港品牌，超大带宽，直连通道，很多Mac使用它
-
-优势：180可选节点，3W个ip，不记录日志，完全保护个人隐私
-
-# 4.Ivacy翻墙 [Ivacy官网地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=best&data2=fanqiang)
+# 3.Ivacy翻墙 [Ivacy官网地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=best&data2=fanqiang)
 美国的品牌，在外网的评价不错，TOP5的水平
 
 # TODO 会持续更新好用的翻墙工具
